@@ -8,3 +8,8 @@
   align-items: center;
   cursor: pointer;
 }
+
+.gameOption:hover {
+  border: 2px solid #0096C7;;
+  transition: all 0.25s ease-out;
+}
